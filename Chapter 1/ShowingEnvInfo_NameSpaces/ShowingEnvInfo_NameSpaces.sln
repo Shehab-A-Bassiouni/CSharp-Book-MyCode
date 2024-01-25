@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowingEnvInfo_NameSpaces", "ShowingEnvInfo_NameSpaces.csproj", "{C4AC8BBF-F7AC-4599-AAE8-8DDD796CA871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4AC8BBF-F7AC-4599-AAE8-8DDD796CA871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4AC8BBF-F7AC-4599-AAE8-8DDD796CA871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4AC8BBF-F7AC-4599-AAE8-8DDD796CA871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4AC8BBF-F7AC-4599-AAE8-8DDD796CA871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55718C15-764D-43F0-8ACA-E6269CF4A279}
+	EndGlobalSection
+EndGlobal
